@@ -1,1 +1,2 @@
 line1: RED. colour of mars
+line2: BLUE. colour of the sea
