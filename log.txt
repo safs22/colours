@@ -1,6 +1,6 @@
-line1: RED. colour of mars
 line2: BLUE. colour of the sea
 line3: YELLOW. colour of Venus
 line4: PURPLE. colour of lavender
 line5: ORANGE. colour of oranges
 line6: BRICK_RED. colour of robin's breast
+line7: SILVER_BIRCH. colour of forementioned tree.
